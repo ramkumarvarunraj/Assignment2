@@ -1,2 +1,2 @@
-# Assignment2
-DevOps Assignment 2
+# DevOps_Asssignment2
+Repository for second DevOps Assignment
