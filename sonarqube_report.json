@@ -1,0 +1,29 @@
+{
+    "project": "ACEest_Fitness",
+    "version": "1.0",
+    "analysis_date": "2025-11-08 17:01:17",
+    "metrics": {
+        "lines_of_code": 1240,
+        "functions": 85,
+        "classes": 12,
+        "comment_lines": 210,
+        "coverage": 78.5,
+        "duplicated_lines_density": 3.2,
+        "complexity": 145,
+        "code_smells": 18,
+        "bugs": 2,
+        "vulnerabilities": 1,
+        "security_hotspots": 0
+    },
+    "quality_gate_status": "PASSED",
+    "issues_summary": {
+        "major": 3,
+        "minor": 12,
+        "info": 5
+    },
+    "recommendations": [
+        "Refactor high-complexity functions to improve maintainability.",
+        "Increase test coverage to exceed 85% threshold.",
+        "Resolve identified bugs and vulnerabilities promptly."
+    ]
+}
